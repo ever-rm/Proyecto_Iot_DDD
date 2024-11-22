@@ -31,3 +31,4 @@
 /home/ramos/PROYECTO_IOT PROYECTO_IOT.API/obj/Debug/net8.0/IoT.Platform.API.pdb
 /home/ramos/PROYECTO_IOT PROYECTO_IOT.API/obj/Debug/net8.0/IoT.Platform.API.genruntimeconfig.cache
 /home/ramos/PROYECTO_IOT PROYECTO_IOT.API/obj/Debug/net8.0/ref/IoT.Platform.API.dll
+/home/ramos/PROYECTO_IOT PROYECTO_IOT.API/obj/Debug/net8.0/IoT.Platform.API.sourcelink.json
